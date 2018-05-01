@@ -1,2 +1,5 @@
 # DistanciaIoT
-Obtendo distâticia utilizando conceitos de IoT
+Obtendo distâticia utilizando conceitos de IoT:
+  - Protocolo Mqtt
+  - ArduinoOta
+  - Sensor Ultrassonic
